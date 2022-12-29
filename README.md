@@ -15,7 +15,7 @@ footer: MIT Licensed | Copyright © xys
 ---
 
 
-``` js{0}
+``` js{4}
 export default {
   data () {
     return {
