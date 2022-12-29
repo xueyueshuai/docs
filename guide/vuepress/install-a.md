@@ -1,4 +1,10 @@
-## 全局安装 
+---
+# sidebar: false
+# sidebarDepth: 0
+# sidebar: auto
+---
+# 全局安装
+## 全局安装vuepress
 如果你只是想随便用下 VuePress，你可以在全局安装它：
 ``` sh
 npm install -g vuepress
@@ -65,3 +71,7 @@ vuepress dev 项目目录
 ```sh
 vuepress build
 ```
+
+
+
+

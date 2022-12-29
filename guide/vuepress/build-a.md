@@ -1,7 +1,4 @@
-# 部署
-以下指南假设你将文档放置在项目的 docs 目录中，并使用默认的编译输出位置。
-
-## GitHub 页面
+# 部署到GitHub Pages
 
 1. 将`.vuepress/config.js`中的`base`设置为你的仓库名称。
 
@@ -36,4 +33,3 @@ git branch -M main
 # git push -f git@github.com:<USERNAME>/<REPO>.git <本地分支名称>:<远程分支名称>
 git push -f git@github.com:xueyueshuai/vuepress-demo.git main:main
 ```
-
