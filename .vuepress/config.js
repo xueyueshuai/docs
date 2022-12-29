@@ -6,7 +6,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'vuepress', link: '/vuepress-guide/install-a' },
+            { text: 'vuepress', link: '/guide/vuepress/install-a' },
             { text: '百度', link: 'https://www.baidu.com' },
             // { text: '淘宝', link: 'https://www.taobao.com' },
         ],
@@ -21,15 +21,15 @@ module.exports = {
                     title: '安装',
                     collapsable: false,
                     children: [
-                        ['/vuepress-guide/install-a','全局安装'],
-                        ['/vuepress-guide/install-b','在已有项目中安装']
+                        ['/guide/vuepress/install-a','全局安装'],
+                        ['/guide/vuepress/install-b','在已有项目中安装']
                     ]
                 },
                 {
                     title: '部署',
                     collapsable: false,
                     children: [ 
-                      ['/vuepress-guide/build-a','部署到GitHub'],
+                      ['/guide/vuepress/build-a','部署到GitHub'],
                     ]
                   }
               ]

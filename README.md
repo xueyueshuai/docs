@@ -3,7 +3,7 @@ home: true
 description: 薛月帅的vuepress文档
 # heroImage: ./hero.png
 actionText: 开始 →
-actionLink: /vuepress-guide/install-a
+actionLink: /guide/vuepress/install-a
 features:
 - title: 简明优先
   details: 对以 markdown 为中心的项目结构，做最简化的配置，帮助你专注于创作。
