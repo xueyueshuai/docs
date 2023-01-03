@@ -23,6 +23,14 @@ module.exports = {
                     {text:'2023法定假期',link:'/guide/other/holiday/'},
                 ]
             },
+            {
+                text: '新知地规定',
+                items:[
+                    {text:'web工程师',link:'/guide/xzdRule/web/'},
+                    {text:'php工程师',link:'/guide/xzdRule/php/'},
+                    {text:'java工程师',link:'/guide/xzdRule/java/'},
+                ]
+            },
 
             // { text: '百度', link: 'https://www.baidu.com' },
             // { text: '淘宝', link: 'https://www.taobao.com' },
