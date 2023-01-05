@@ -14,6 +14,7 @@ module.exports = {
                 items:[
                     {text:'抽奖转盘',link:'/guide/case/choujiang/'},
                     {text:'ChineseLayout',link:'/guide/case/ChineseLayout/'},
+                    {text:'缩放+居中',link:'/guide/case/scale/'},
                 ]
             },
             {
@@ -24,11 +25,16 @@ module.exports = {
                 ]
             },
             {
-                text: '新知地规定',
+                text: '新知地',
                 items:[
-                    {text:'web工程师',link:'/guide/xzdRule/web/'},
-                    {text:'php工程师',link:'/guide/xzdRule/php/'},
-                    {text:'java工程师',link:'/guide/xzdRule/java/'},
+                    {text:'售前岗',link:'/guide/xzdRule/pro/'},
+                    {text:'项目经理岗',link:'/guide/xzdRule/project/'},
+                    {text:'产品岗',link:'/guide/xzdRule/product/'},
+                    {text:'ui岗',link:'/guide/xzdRule/ui/'},
+                    {text:'web岗',link:'/guide/xzdRule/web/'},
+                    {text:'php岗',link:'/guide/xzdRule/php/'},
+                    {text:'java岗',link:'/guide/xzdRule/java/'},
+                    {text:'测试岗',link:'/guide/xzdRule/test/'},
                 ]
             },
 
