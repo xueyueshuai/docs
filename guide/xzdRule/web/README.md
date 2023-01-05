@@ -1,5 +1,6 @@
 ---
-sidebar: false
+# navbar: false
+sidebar: auto
 ---
 
 # web
