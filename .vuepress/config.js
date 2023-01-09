@@ -13,6 +13,7 @@ module.exports = {
                 text: '案例',
                 items:[
                     {text:'抽奖转盘',link:'/guide/case/choujiang/'},
+                    {text:'网格布局一张图',link:'/guide/other/displayGrid/'},
                     {text:'ChineseLayout',link:'/guide/case/ChineseLayout/'},
                     {text:'缩放+居中',link:'/guide/case/scale/'},
                     {text:'i18n',link:'/guide/case/i18n/'}
@@ -21,7 +22,6 @@ module.exports = {
             {
                 text: '其他',
                 items:[
-                    {text:'网格布局一张图',link:'/guide/other/displayGrid/'},
                     {text:'2023法定假期',link:'/guide/other/holiday/'},
                 ]
             },
