@@ -15,6 +15,7 @@ module.exports = {
                     {text:'抽奖转盘',link:'/guide/case/choujiang/'},
                     {text:'ChineseLayout',link:'/guide/case/ChineseLayout/'},
                     {text:'缩放+居中',link:'/guide/case/scale/'},
+                    {text:'i18n',link:'/guide/case/i18n/'}
                 ]
             },
             {
