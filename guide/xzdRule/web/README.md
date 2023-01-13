@@ -9,6 +9,8 @@ sidebar: auto
 请求发起时开始loading,
 请求响应时候结束loading(异常响应也要结束loading)
 
+## list列表元素个数为0时, 要有默认图例如“暂无数据”
+
 
 ## css相关
 ### 文字的显示
