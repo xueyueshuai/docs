@@ -5,7 +5,7 @@ sidebar: auto
 
 # web工程师必读
 
-## 测试文字和图片 必须具有真实性 
+## web101: 测试文字和图片 必须具有真实性 
 不能出现111222 aaabbb test 等类似的文字, 图片也不能任意寻找
 因为这样回大大的损毁 自己产品的产品力 
 
@@ -13,15 +13,15 @@ sidebar: auto
 态度决定高度,细节决定成败. 还望大家严格遵守.
 :::
 
-## 网络请求必须有loading效果
+## web102: 网络请求必须有loading效果
 请求发起时开始loading,
 请求响应时候结束loading(异常响应也要结束loading)
 
-## list列表元素个数为0时
+## web103: list列表元素个数为0时
 要有 缺省图 默认图例如“暂无数据”
 
 
-## css相关-文字的显示
+## web104: css相关-文字的显示
 :::danger 文字的显示,要考虑超出隐藏 
 ```html
 <style>
@@ -43,7 +43,7 @@ sidebar: auto
 ```
 :::
 
-## css相关-图片的显示 
+## web105: css相关-图片的显示 
 :::danger 注意
 1. 要考虑图片的大小(图片要在保证清晰的前提下,磁盘占用尽量小,利于网络传输尽快显示,尤其是首页要求图片加载必须快)
 2. 要考虑是否变形(正确选择 object-fit属性的值) 
@@ -71,7 +71,7 @@ object-fit属性的可选值:
 - inherit	从该元素的父元素继承属性。 关于 inherit
 :::
 
-## css相关-BFC
+## web106: css相关-BFC
 :::tip  
 #### bfc(Block Formatting Context 块级格式化上下文)
 在官方文档到中是这么介绍的：一个BFC区域包含创建该上下文元素的所有子元素，但是不包括创建了新的BFC的子元素的内部元素，BFC是一块块独立的渲染区域，可以将BFC看成是元素的一种属性，拥有了这种属性的元素就会使他的子元素与世隔绝，不会影响到外部其他元素
@@ -89,6 +89,6 @@ object-fit属性的可选值:
 :::
 
 
-## Chinese Layout布局
+## web107: Chinese Layout布局
 
 [Chinese Layout布局](./../../case/ChineseLayout)
