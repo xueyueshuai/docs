@@ -92,3 +92,12 @@ object-fit属性的可选值:
 ## web107: Chinese Layout布局
 
 [Chinese Layout布局](./../../case/ChineseLayout)
+
+## web108: 手机号验证
+
+:::tip
+手机号验证正则，只要是1开头即可, 如果手机号是用来接收短信, 优先建议选择这一条
+```html
+/^(?:(?:\+|00)86)?1\d{10}$/
+```
+
