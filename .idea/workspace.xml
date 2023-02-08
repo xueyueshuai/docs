@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90b336bf-1740-4cd4-81bc-6036b72cbdbf" name="Default Changelist" comment="" />
+    <list default="true" id="90b336bf-1740-4cd4-81bc-6036b72cbdbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide/xzdRule/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/guide/xzdRule/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide/xzdRule/php/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/guide/xzdRule/php/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675132663861</updated>
       <workItem from="1675132667494" duration="2787000" />
+      <workItem from="1675158790716" duration="3043000" />
+      <workItem from="1675828096740" duration="116000" />
     </task>
     <servers />
   </component>
@@ -61,5 +67,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
