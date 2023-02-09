@@ -23,6 +23,7 @@ module.exports = {
                 text: '其他',
                 items:[
                     {text:'2023法定假期',link:'/guide/other/holiday/'},
+                    {text:'商城使用教程',link:'/guide/other/shop/'},
                 ]
             },
             {
@@ -80,8 +81,8 @@ module.exports = {
                 }
             ],
 
-            
-            
+
+
         }
     }
 }
